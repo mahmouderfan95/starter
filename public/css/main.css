@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.sidebar{
+    padding: 30px 0;
+    background-color: cyan;
+    margin-bottom: 20px;
+}
+.sidebar p{
+    font-size: 22px;
+}
+.services{
+    padding: 30px 0;
+    background-color: #EEE;
+}
+.services i{
+    font-size: 40px;
+    color: darkslateblue;
+    margin-bottom: 15px;
+}
+.services h5{
+    font-size: 22px;
+}
+.people-say{
+    padding: 30px 0;
+}
+.people-say img{
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
